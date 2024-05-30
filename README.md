@@ -8,7 +8,7 @@ Exercises given by odin projects to practice testing and TOP principle
     for (a zillion times) {
         RED
     }```
-    ,then GREEN, REFACTOR stages
+    ,then GREEN and REFACTOR stages
 ## Usage 
 
 - If you want to refactor the code, you can fork it
