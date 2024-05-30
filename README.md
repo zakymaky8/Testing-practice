@@ -1,8 +1,8 @@
 # Testing-practice
-Exercises given by odin projects to practice testing and TOP principle
+Exercises given by odin projects to practice testing and TDD principles
 ## Description
-- This project is based on Odin assignments to use TDD
-- As required, it have fullfilled every steps in TDD
+- This project is based on Odin assignments to use TDD as testing paradigm
+- As required, it has fullfilled every steps in TDD
 - It has gone through 
     ```
     for (a zillion times) {
