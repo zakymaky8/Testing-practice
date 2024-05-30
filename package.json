@@ -1,0 +1,15 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Exercises given by odin projects to practice testing and TOP principle",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "zekaryas",
+  "license": "zekaryas",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
